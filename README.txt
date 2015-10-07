@@ -6,3 +6,5 @@ After breaching APOGEE_RELEASE (~670 feet), it is to light up a resistor, loving
 It will descend back to earth using a parachute.
 In the event of a total stop in altitude changes (the assumption is landing after descent if it measures 3 consecutive altitudes within 10 feet of each other), blare an audible beacon for retrieval.
 It broadcasts flight data using an XBee radio back to a home station.
+
+This project had a successful flight and finalized its mission on October 6, 2015, at 20:45.
